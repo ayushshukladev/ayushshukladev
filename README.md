@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Ayush Shukla 👋
 🎓 MCA Student at Chandigarh University, Unnao  <br>💻 Aspiring Backend Developer | Software Development Enthusiast<br><br>Tech Stack<br>- **Languages:** Python, C, C++, JavaScript<br>- **Backend Frameworks:** Django, Express.js<br>- **Databases:** MySQL<br>- **Cloud & DevOps:** AWS, Git & GitHub<br><br>🌱 Currently improving my backend development skills and exploring cloud technologies.
 
 
